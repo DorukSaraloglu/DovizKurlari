@@ -1,0 +1,30 @@
+E:\DovizKurlari\DovizKurlari\bin\Debug\DovizKurlari.exe.config
+E:\DovizKurlari\DovizKurlari\bin\Debug\DovizKurlari.exe
+E:\DovizKurlari\DovizKurlari\bin\Debug\DovizKurlari.pdb
+E:\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.csprojAssemblyReference.cache
+E:\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.Properties.Resources.resources
+E:\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.csproj.GenerateResource.cache
+E:\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.csproj.CoreCompileInputs.cache
+E:\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.exe
+E:\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.pdb
+E:\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.Form1.resources
+F:\XML\DovizKurlari\DovizKurlari\bin\Debug\DovizKurlari.exe.config
+F:\XML\DovizKurlari\DovizKurlari\bin\Debug\DovizKurlari.exe
+F:\XML\DovizKurlari\DovizKurlari\bin\Debug\DovizKurlari.pdb
+F:\XML\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.csprojAssemblyReference.cache
+F:\XML\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.Form1.resources
+F:\XML\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.Properties.Resources.resources
+F:\XML\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.csproj.GenerateResource.cache
+F:\XML\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.csproj.CoreCompileInputs.cache
+F:\XML\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.exe
+F:\XML\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.pdb
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.csprojAssemblyReference.cache
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.FormMain.resources
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.Properties.Resources.resources
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.csproj.GenerateResource.cache
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.csproj.CoreCompileInputs.cache
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.exe
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\obj\Debug\DovizKurlari.pdb
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\bin\Debug\DovizKurlari.exe.config
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\bin\Debug\DovizKurlari.exe
+F:\FOR GITHUB\DovizKurlari\DovizKurlari\bin\Debug\DovizKurlari.pdb
